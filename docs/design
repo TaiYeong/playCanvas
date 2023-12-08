@@ -1,0 +1,4 @@
+- 거창하게 design pattern 생각말고, SOLID에 입각해서만 개발
+
+- maya / houdini /standalone 환경에서 뷰가 나오도록 테스트 : liskov 원칙
+- 
